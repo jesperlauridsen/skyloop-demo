@@ -1,1 +1,1 @@
-https://jesperlauridsen.github.io/skyloop-official/
+https://jesperlauridsen.github.io/skyloop-demo/
